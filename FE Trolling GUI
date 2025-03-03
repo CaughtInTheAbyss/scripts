@@ -83,7 +83,7 @@ local Admins = Window:AddTab({
 	Icon = "globe"
 })
 Admins:AddParagraph({
-    Title = "Update logs: Removed some feature due to leaking 👹",
+    Title = "Update logs: Removed some features",
     Content = hi
 })
 Admins:AddButton({
